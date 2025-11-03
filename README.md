@@ -99,13 +99,3 @@ docker rm netdata
 
 ---
 
-## 🎓 Outcome
-
-By completing this task, you:
-
-* Learned to use **Netdata** for real-time server monitoring.
-* Understood how to monitor **CPU, memory, disk, and Docker containers** visually.
-* Gained experience in **exposing and accessing web apps inside GitHub Codespaces**.
-
----
-
